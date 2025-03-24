@@ -6,12 +6,10 @@ class PhoneType(Enum):
     WORK = auto()
     OTHER = auto()
 
-
 class EmailType(Enum):
     PERSONAL = auto()
     WORK = auto()
     OTHER = auto()
-
 
 class AddressType(Enum):
     HOME = auto()
